@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-10-12 10:40:27 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>Erik Henriksson</short>
+      <name>Erik Henriksson</name>
+      <address>erik.henriksson@helsinki.fi</address>
+      <uri>http://data.perseus.org/sosol/users/Erik%20Henriksson</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="Φλάουιος" lemma="Φλάουιος" postag="c--------" relation="" head=""/>
+      <word id="2" form="Πατρόφιλος" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="Βάσσου" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="ὁ" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="προγεγραμμένος" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="πεποίημαι" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="τήνδε" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="τὴν" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="ἔγγραφον" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="ἀσφάλειαν" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="πρὸς" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="τὸν" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="εὐδοκιμώτατον" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="Θεόδωρον" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="Ὀβοδιανοῦ" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="διʼ" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="ἧς" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="ὁμολογῶ" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="πληροῦν" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="πάντα" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="τὰ" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="προγεγραμμένα" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="κατὰ" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="τὴν" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="προδιηγηθεῖσαν" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="πᾶσαν" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="δύναμιν" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="καὶ" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="ἐμμένω" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="πᾶσιν" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="καὶ" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="ἐπωμοσάμην" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="καὶ" lemma="" postag="" relation="" head=""/>
+      <word id="34" form="ὑπεθέμην" lemma="" postag="" relation="" head=""/>
+      <word id="35" form="καθὼς" lemma="" postag="" relation="" head=""/>
+      <word id="36" form="πρόκειται" lemma="" postag="" relation="" head=""/>
+      <word id="37" form="καὶ" lemma="" postag="" relation="" head=""/>
+      <word id="38" form="αἰτηθεὶς" lemma="" postag="" relation="" head=""/>
+      <word id="39" form="ὡμολόγησα" lemma="" postag="" relation="" head=""/>
+      <word id="40" form="ἕκαστα" lemma="" postag="" relation="" head=""/>
+      <word id="41" form="ἀκολούθως" lemma="" postag="" relation="" head=""/>
+      <word id="42" form="GG" lemma="" postag="" relation="" head=""/>
+      <word id="43" form="ὑπογράψας" lemma="" postag="" relation="" head=""/>
+      <word id="44" form="χειρὶ" lemma="" postag="" relation="" head=""/>
+      <word id="45" form="ἐμῇ" lemma="" postag="" relation="" head=""/>
+      <word id="46" form="ἀπέλυσα" lemma="" postag="" relation="" head=""/>
+      <word id="47" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
