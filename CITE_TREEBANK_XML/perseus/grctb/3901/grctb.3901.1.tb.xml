@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-11-03 13:12:22 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>LauriMarjamäki</short>
+      <name>Lauri Marjamäki</name>
+      <address>marjamakilauri@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="Διόσκορος" lemma="Διόσκορος" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="Δράκονι" lemma="Δρακων" postag="n-s---md-" relation="OBJ" head="7"/>
+      <word id="3" form="ἀδελφῷ" lemma="ἀδελφός" postag="n-s---md-" relation="ATR" head="2"/>
+      <word id="4" form="πολλὰ" lemma="πολύς" postag="a-p---na-" relation="ADV" head="7"/>
+      <word id="5" form="χαίρειν" lemma="χαίρω" postag="v--pna---" relation="OBJ" head="7"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0006e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="" subdoc="" span="">
+      <word id="1" form="πρὸ" lemma="πρό" postag="r--------" relation="AuxP" head="4"/>
+      <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="4"/>
+      <word id="3" form="πάντων" lemma="πᾶς" postag="a-p---mg-" relation="ADV" head="1"/>
+      <word id="4" form="εὔχομέ" lemma="εὔχομαι" postag="v1spie---" relation="PRED" head="0"/>
+      <word id="5" form="σε" lemma="σύ" postag="p2s----a-" relation="SBJ" head="6"/>
+      <word id="6" form="ὑγιαίνειν" lemma="ὑγιαίνω" postag="v--pna---" relation="OBJ" head="4"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3" document_id="" subdoc="" span="">
+      <word id="1" form="κόμισαι" lemma="κομίζω" postag="v2samm---" relation="PRED" head="0"/>
+      <word id="2" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="3"/>
+      <word id="3" form="τρεικέραμον" lemma="τρικέραμον" postag="n-s---na-" relation="OBJ" head="1"/>
+      <word id="4" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="1"/>
+      <word id="5" form="Ἀρτεμιδώρου" lemma="Ἀρτεμίδωρος" postag="n-s---mg-" relation="ADV" head="4"/>
+      <word id="6" form="καμηλίτου" lemma="καμηλίτης" postag="n-s---mg-" relation="ATR" head="5"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4" document_id="" subdoc="" span="">
+      <word id="1" form="ἀσπάζομαι" lemma="ἀσπάζομαι" postag="v1spie---" relation="PRED" head="0"/>
+      <word id="2" form="Ερεμησις" lemma="Ἑρεμησις" postag="n-s---mn-" relation="OBJ_CO" head="3"/>
+      <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="1"/>
+      <word id="4" form="Ἀμμωνιανὸν" lemma="Ἀμμωνιανός" postag="n-s---ma-" relation="OBJ_CO" head="3"/>
+      <word id="5" form="κουράτορα" lemma="κουράτωρ" postag="n-s---ma-" relation="ATR" head="4"/>
+      <word id="6" form="συν" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="GGνος" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="ἔχεις" lemma="ἔχω" postag="v2spia---" relation="" head=""/>
+      <word id="9" form="Gμος" lemma="" postag="" relation="" head=""/>
+   </sentence>
+   <sentence id="5" document_id="" subdoc="" span="">
+      <word id="1" form="ἐρρῶσθαι" lemma="ῥώννυμι" postag="v--rne---" relation="OBJ" head="2"/>
+      <word id="2" form="εὔχομαι" lemma="εὔχομαι" postag="v1spie---" relation="PRED" head="0"/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
