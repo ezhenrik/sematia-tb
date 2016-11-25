@@ -17,7 +17,7 @@
       <address>marjamakilauri@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
   </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="https://sematia.hum.helsinki.fi/edit/464" subdoc="" span="">
       <word id="1" form="Σιλβανὸς" lemma="Σιλβανὀς" postag="n-s---mn-" relation="SBJ" head="7"/>
       <word id="2" form="Σιλβανῶι" lemma="Σιλβανός" postag="n-s---md-" relation="OBJ" head="7"/>
       <word id="3" form="τῶι" lemma="ὁ" postag="l-s---md-" relation="ATR" head="4"/>
@@ -26,7 +26,7 @@
       <word id="6" form="χαίρειν" lemma="χαίρω" postag="v--pna---" relation="OBJ" head="7"/>
       <word id="7" insertion_id="0006e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
    </sentence>
-   <sentence id="2" document_id="" subdoc="" span="">
+   <sentence id="2" document_id="https://sematia.hum.helsinki.fi/edit/464" subdoc="" span="">
       <word id="1" form="παραγενόμην" lemma="παραγίγνομαι" postag="v1saim---" relation="PRED_CO" head="11"/>
       <word id="2" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="1"/>
       <word id="3" form="Ῥαειμα" lemma="Ῥαιμα" postag="n-_---__-" relation="OBJ" head="2"/>
@@ -47,7 +47,7 @@
       <word id="18" form="σάβανον" lemma="σάβανον" postag="n-s---na-" relation="OBJ_CO" head="16"/>
       <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="" subdoc="" span="">
+   <sentence id="3" document_id="https://sematia.hum.helsinki.fi/edit/464" subdoc="" span="">
       <word id="1" form="προσδέχομαι" lemma="προσδέχομαι" postag="v1spie---" relation="PRED" head="0"/>
       <word id="2" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="3"/>
       <word id="3" form="καμήλους" lemma="κάμηλος" postag="n-p---ma-" relation="OBJ" head="1"/>
