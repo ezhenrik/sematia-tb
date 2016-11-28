@@ -18,7 +18,7 @@
       <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
   </annotator>
    <sentence id="1"
-             document_id="https://sematia.hum.helsinki.fi/edit/503"
+             document_id="https://sematia.hum.helsinki.fi/edit/509"
              subdoc=""
              span="">
       <word id="1" form="Δίδυμος" lemma="Δίδυμος" postag="n-s---mn-" relation="SBJ" head="20"/>
@@ -43,7 +43,7 @@
       <word id="20" insertion_id="0009e" artificial="elliptic" relation="PRED_CO" form="[0]" head="10"/>
    </sentence>
    <sentence id="2"
-             document_id="https://sematia.hum.helsinki.fi/edit/503"
+             document_id="https://sematia.hum.helsinki.fi/edit/509"
              subdoc=""
              span="">
       <word id="1" form="ἄδελφε" lemma="ἀδελφός" postag="n-s---mv-" relation="ATR" head="2"/>
@@ -59,7 +59,7 @@
       <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="3"
-             document_id="https://sematia.hum.helsinki.fi/edit/503"
+             document_id="https://sematia.hum.helsinki.fi/edit/509"
              subdoc=""
              span="">
       <word id="1" form="ὃ" lemma="ὅς" postag="p-s---na-" relation="OBJ" head="3"/>
