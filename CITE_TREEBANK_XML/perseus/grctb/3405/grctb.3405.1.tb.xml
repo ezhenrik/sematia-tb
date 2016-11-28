@@ -24,7 +24,7 @@
       <uri>http://data.perseus.org/sosol/users/Marja%20Vierros</uri>
   </annotator>
    <sentence id="1"
-             document_id="http://sematia.hum.helsinki.fi/annotate/346"
+             document_id="http://sematia.hum.helsinki.fi/annotate/364"
              subdoc=""
              span="">
       <word id="1" form="Ποσιδωνίωι" lemma="Ποσειδώνιος" postag="n-s---md-" relation="OBJ" head="14"/>
@@ -43,7 +43,7 @@
       <word id="14" insertion_id="0012e" artificial="elliptic" relation="PRED" form="[0]" lemma="[0]" postag="v____p---" head="0"/>
    </sentence>
    <sentence id="2"
-             document_id="http://sematia.hum.helsinki.fi/annotate/346"
+             document_id="http://sematia.hum.helsinki.fi/annotate/364"
              subdoc=""
              span="">
       <word id="1" form="ὤντος" lemma="εἰμί" postag="v-sppamg-" relation="ADV" head="58"/>
@@ -118,7 +118,7 @@
       <word id="70" insertion_id="0040e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v3spia---" form="εστι" head="38"/>
    </sentence>
    <sentence id="3"
-             document_id="http://sematia.hum.helsinki.fi/annotate/346"
+             document_id="http://sematia.hum.helsinki.fi/annotate/364"
              subdoc=""
              span="">
       <word id="1" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="27"/>
@@ -176,7 +176,7 @@
       <word id="53" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="4"
-             document_id="http://sematia.hum.helsinki.fi/annotate/346"
+             document_id="http://sematia.hum.helsinki.fi/annotate/364"
              subdoc=""
              span="">
       <word id="1" form="διὸ" lemma="διό" postag="c--------" relation="AuxC" head="7"/>
