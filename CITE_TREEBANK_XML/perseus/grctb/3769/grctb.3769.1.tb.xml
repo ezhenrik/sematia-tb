@@ -90,7 +90,7 @@
              subdoc=""
              span="">
       <word id="1" form="ἀσπάζου" lemma="ἀσπάζομαι" postag="v2spme---" relation="PRED_CO" head="3"/>
-      <word id="2" form="Ἀπλονοῦν" lemma="Ἀπολλωνοῦς" postag="n-s---ma-" relation="OBJ" head="1"/>
+      <word id="2" form="Ἀπλονοῦν" lemma="Ἀπολλωνοῦς" postag="n-s---fa-" relation="OBJ" head="1"/>
       <word id="3" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
       <word id="4" form="ἀσπάζεταί" lemma="ἀσπάζομαι" postag="v3spie---" relation="PRED_CO" head="3"/>
       <word id="5" form="σε" lemma="σύ" postag="p2s----a-" relation="OBJ" head="4"/>
