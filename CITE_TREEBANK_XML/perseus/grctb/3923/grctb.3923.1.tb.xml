@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-11-10 11:49:54 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>LauriMarjamäki</short>
+      <name>Lauri Marjamäki</name>
+      <address>marjamakilauri@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
+  </annotator>
+   <sentence id="1" document_id="https://sematia.hum.helsinki.fi/edit/481" subdoc="" span="">
+      <word id="1" form="κιβιον" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="αικονκει" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="ειδοννατιβον" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="5" form="πέμψον" lemma="πέμπω" postag="v2sama---" relation="PRED_CO" head="4"/>
+      <word id="6" form="ἡμῖν" lemma="ἐγώ" postag="p1p---md-" relation="OBJ" head="5"/>
+      <word id="7" form="ἄνωι" lemma="ἄνω" postag="d-------_" relation="ADV" head="5"/>
+   </sentence>
+</treebank>

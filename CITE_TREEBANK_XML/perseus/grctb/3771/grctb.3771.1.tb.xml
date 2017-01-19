@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-10-14 20:37:10 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="http://sematia.hum.helsinki.fi/annotate/391"
+             subdoc=""
+             span="">
+      <word id="1" form="Ἀπολλῶς" lemma="Ἀπολλῶς" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="Μικκάλου" lemma="Μικκάλου" postag="n-s---__-" relation="OBJ" head="7"/>
+      <word id="3" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="4"/>
+      <word id="4" form="ἀδελφῇ" lemma="ἀδελφή" postag="n-s---fd-" relation="ATR" head="2"/>
+      <word id="5" form="χαίριν" lemma="χαίρω" postag="v--pna---" relation="OBJ" head="7"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0004e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="http://sematia.hum.helsinki.fi/annotate/391"
+             subdoc=""
+             span="">
+      <word id="1" form="ἀνακαῖον" lemma="ἀναγκαῖος" postag="a-s---nap" relation="OCOMP" head="2"/>
+      <word id="2" form="ἡγησάμην" lemma="ἡγέομαι" postag="v1saim---" relation="PRED" head="0"/>
+      <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="5"/>
+      <word id="4" form="Ῥαειμα" lemma="Ῥαειμα" postag="n-_---_a-" relation="OBJ" head="3"/>
+      <word id="5" form="γεναναμενες" lemma="γίγνομαι" postag="v_____---" relation="SBJ" head="2"/>
+      <word id="6" form="ἀσπάσεσται" lemma="ἀσπάζομαι" postag="v_____---" relation="OBJ" head="2"/>
+      <word id="7" form="σε" lemma="σύ" postag="p2s----a-" relation="OBJ" head="6"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="http://sematia.hum.helsinki.fi/annotate/391"
+             subdoc=""
+             span="">
+      <word id="1" form="ὅς" lemma="ὡς" postag="c--------" relation="AuxC" head="5"/>
+      <word id="2" form="σοι" lemma="σύ" postag="p2s----d-" relation="OBJ" head="3"/>
+      <word id="3" form="ἐντέταλμαι" lemma="ἐντέλλω" postag="v1srie---" relation="ADV" head="1"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="1"/>
+      <word id="5" form="ἔπεχε" lemma="ἐπέχω" postag="v2spma---" relation="PRED" head="0"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="http://sematia.hum.helsinki.fi/annotate/391"
+             subdoc=""
+             span="">
+      <word id="1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="3"/>
+      <word id="2" form="μηδένα" lemma="μηδείς" postag="p-s---ma-" relation="ADV" head="1"/>
+      <word id="3" form="συνζήτι" lemma="συζητέω" postag="v_____---" relation="PRED_CO" head="6"/>
+      <word id="4" form="κ-" lemma="καί" postag="c--------" relation="AuxZ" head="5"/>
+      <word id="5" form="αἰγὼ" lemma="ἐγώ" postag="p-s---_n-" relation="SBJ" head="7"/>
+      <word id="6" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" head="0"/>
+      <word id="7" form="μεριμνῶ" lemma="μεριμνάω" postag="v1spia---" relation="PRED_CO" head="6"/>
+      <word id="8" form="σου" lemma="σύ" postag="p2s----g-" relation="OBJ" head="7"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="http://sematia.hum.helsinki.fi/annotate/391"
+             subdoc=""
+             span="">
+      <word id="1" form="ὥς" lemma="ὡς" postag="c--------" relation="AuxC" head="6"/>
+      <word id="2" form="σοι" lemma="σύ" postag="p2s----d-" relation="OBJ" head="3"/>
+      <word id="3" form="ἀπεταξάμην" lemma="ἀποτάσσω" postag="v1saim---" relation="ADV" head="1"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="1"/>
+      <word id="5" form="μηδὲν" lemma="μηδείς" postag="p-s---na-" relation="OBJ" head="6"/>
+      <word id="6" form="λοιποῦ" lemma="λυπέω" postag="v2spme---" relation="PRED" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6"
+             document_id="http://sematia.hum.helsinki.fi/annotate/391"
+             subdoc=""
+             span="">
+      <word id="1" form="ἀσπάζου" lemma="ἀσπάζομαι" postag="v2spme---" relation="PRED_CO" head="3"/>
+      <word id="2" form="Ἀπλονοῦν" lemma="Ἀπολλωνοῦς" postag="n-s---fa-" relation="OBJ" head="1"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+      <word id="4" form="ἀσπάζεταί" lemma="ἀσπάζομαι" postag="v3spie---" relation="PRED_CO" head="3"/>
+      <word id="5" form="σε" lemma="σύ" postag="p2s----a-" relation="OBJ" head="4"/>
+      <word id="6" form="Φῆστος" lemma="Φῆστος" postag="n-s---mn-" relation="SBJ" head="4"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7"
+             document_id="http://sematia.hum.helsinki.fi/annotate/391"
+             subdoc=""
+             span="">
+      <word id="1" form="ἐρροσω" lemma="ῥώννυμι" postag="v_____---" relation="PRED" head="0"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
