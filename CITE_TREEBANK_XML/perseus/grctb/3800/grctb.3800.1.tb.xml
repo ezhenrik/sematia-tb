@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-10-16 19:24:41 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="http://sematia.hum.helsinki.fi/annotate/400"
+             subdoc=""
+             span="">
+      <word id="1" form="Ἀντωνίνῳ" lemma="Ἀντωνῖνος" postag="n-s---md-" relation="OBJ" head="7"/>
+      <word id="2" form="A" lemma="ἑκατοντάρχης" postag="n-_---m_-" relation="" head=""/>
+      <word id="3" form="Κλήμης" lemma="Κλήμης" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="4" form="κουράτωρ" lemma="κουράτωρ" postag="n-s---mn-" relation="ATR" head="3"/>
+      <word id="5" form="χA" lemma="χαίρω" postag="v_____---" relation="OBJ" head="7"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0004e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="http://sematia.hum.helsinki.fi/annotate/400"
+             subdoc=""
+             span="">
+      <word id="1" form="ἠγόρασα" lemma="ἀγοράζω" postag="v1saia---" relation="PRED" head="0"/>
+      <word id="2" form="δελφάSU" lemma="δελφάSU" postag="n-_---__-" relation="OBJ" head="1"/>
+      <word id="3" form="SU" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="11"/>
+      <word id="5" form="δύο" lemma="δύο" postag="m--------" relation="APOS_CO" head="11"/>
+      <word id="6" form="ἀνὰ" lemma="ἀνά" postag="r--------" relation="AuxP" head="5"/>
+      <word id="7" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="8"/>
+      <word id="8" form="στατSU" lemma="στατήρ" postag="n-_---m_-" relation="ATR" head="6"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="11"/>
+      <word id="10" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="12"/>
+      <word id="11" form="δʼ" lemma="δέ" postag="c--------" relation="COORD" head="2"/>
+      <word id="12" form="ἓν" lemma="εἷς" postag="n-s---na-" relation="APOS_CO" head="11"/>
+      <word id="13" form="A" lemma="δραχμή" postag="n-_---f_-" relation="ATR" head="14"/>
+      <word id="14" form="ι" lemma="10" postag="m-s---__-" relation="ATR" head="12"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="http://sematia.hum.helsinki.fi/annotate/400"
+             subdoc=""
+             span="">
+      <word id="1" form="πέμψις" lemma="πέμπω" postag="v_____---" relation="PRED" head="0"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="1"/>
+      <word id="3" form="ἐπʼ" lemma="ἐπί" postag="r--------" relation="AuxP" head="10"/>
+      <word id="4" form="αὐτά" lemma="αὐτός" postag="p-p---na-" relation="OBJ_CO" head="3"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="6"/>
+      <word id="6" form="ἐὰν" lemma="ἐάν" postag="c--------" relation="AuxC" head="1"/>
+      <word id="7" form="αὐτῶν" lemma="αὐτός" postag="p-p---ng-" relation="OBJ" head="8"/>
+      <word id="8" form="χρήσῃ" lemma="χράω2" postag="v2sasm---" relation="ADV" head="6"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="10"/>
+      <word id="10" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="1"/>
+      <word id="11" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="12"/>
+      <word id="12" form="χαλκόν" lemma="χαλκός" postag="n-s---ma-" relation="OBJ_CO" head="10"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
