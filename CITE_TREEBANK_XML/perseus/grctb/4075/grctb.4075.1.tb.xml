@@ -18,7 +18,7 @@
       <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
   </annotator>
    <sentence id="1"
-             document_id="https://sematia.hum.helsinki.fi/edit/539"
+             document_id="https://sematia.hum.helsinki.fi/edit/538"
              subdoc=""
              span="">
       <word id="1" form="Πίσων" lemma="Πίσων" postag="n-s---mn-" relation="SBJ" head="10"/>
@@ -58,7 +58,7 @@
       <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="4"
-             document_id="https://sematia.hum.helsinki.fi/edit/539"
+             document_id="https://sematia.hum.helsinki.fi/edit/538"
              subdoc=""
              span="">
       <word id="1" form="μὴ" lemma="μή" postag="c--------" relation="AuxZ" head="2"/>
@@ -66,7 +66,7 @@
       <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="5"
-             document_id="https://sematia.hum.helsinki.fi/edit/539"
+             document_id="https://sematia.hum.helsinki.fi/edit/538"
              subdoc=""
              span="">
       <word id="1" form="πέμψον" lemma="πέμπω" postag="v2sama---" relation="PRED" head="0"/>
@@ -80,7 +80,7 @@
       <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="6"
-             document_id="https://sematia.hum.helsinki.fi/edit/539"
+             document_id="https://sematia.hum.helsinki.fi/edit/538"
              subdoc=""
              span="">
       <word id="1" form="Ὡρίωνι" lemma="Ὡρίων" postag="n-s---md-" relation="OBJ" head="3"/>
@@ -89,7 +89,7 @@
       <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="7"
-             document_id="https://sematia.hum.helsinki.fi/edit/539"
+             document_id="https://sematia.hum.helsinki.fi/edit/538"
              subdoc=""
              span="">
       <word id="1" form="ἀσπάζομαι" lemma="ἀσπάζομαι" postag="v1spie---" relation="PRED" head="0"/>
@@ -105,7 +105,7 @@
       <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="8"
-             document_id="https://sematia.hum.helsinki.fi/edit/539"
+             document_id="https://sematia.hum.helsinki.fi/edit/538"
              subdoc=""
              span="">
       <word id="1" form="ἀσπάζεται" lemma="ἀσπάζομαι" postag="v3spie---" relation="PRED" head="0"/>

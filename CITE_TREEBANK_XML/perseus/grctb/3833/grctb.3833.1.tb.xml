@@ -17,7 +17,7 @@
       <address>jamie.vesterinen@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
   </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="https://sematia.hum.helsinki.fi/edit/418" subdoc="" span="">
       <word id="1" form="ἈντωSU" lemma="" postag="" relation="" head=""/>
       <word id="2" form="SU" lemma="" postag="" relation="" head=""/>
       <word id="3" form="SU" lemma="" postag="" relation="" head=""/>
@@ -25,7 +25,7 @@
       <word id="5" form="SU" lemma="" postag="" relation="" head=""/>
       <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="2" document_id="" subdoc="" span="">
+   <sentence id="2" document_id="https://sematia.hum.helsinki.fi/edit/418" subdoc="" span="">
       <word id="1" form="G" lemma="" postag="" relation="" head=""/>
       <word id="2" form="ἐν" lemma="ἐν" postag="r--------" relation="" head=""/>
       <word id="3" form="οὐσίᾳ" lemma="οὐσία" postag="n-s---fd-" relation="" head=""/>
@@ -37,7 +37,7 @@
       <word id="9" form="ὀκτώ" lemma="ὀκτώ" postag="m--------" relation="" head=""/>
       <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="" subdoc="" span="">
+   <sentence id="3" document_id="https://sematia.hum.helsinki.fi/edit/418" subdoc="" span="">
       <word id="1" form="ἐὰν" lemma="ἐάν" postag="c--------" relation="AuxC" head="4"/>
       <word id="2" form="θέλεις" lemma="ἐθέλω" postag="v2spia---" relation="ADV" head="1"/>
       <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
@@ -51,7 +51,7 @@
       <word id="11" form="ἐπιστόλιν" lemma="ἐπιστόλιον" postag="n-s---na-" relation="OBJ" head="8"/>
       <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="4" document_id="" subdoc="" span="">
+   <sentence id="4" document_id="https://sematia.hum.helsinki.fi/edit/418" subdoc="" span="">
       <word id="1" form="ἔρρωσο" lemma="ῥώννυμι" postag="v2srme---" relation="PRED" head="0"/>
       <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>

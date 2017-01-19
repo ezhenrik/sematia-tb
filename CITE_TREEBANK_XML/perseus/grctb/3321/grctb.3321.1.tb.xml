@@ -23,7 +23,7 @@
       <address>vierrosm@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/Marja%20Vierros</uri>
   </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="https://sematia.hum.helsinki.fi/edit/314" subdoc="" span="">
       <word id="1" form="Βασιλεῖ" lemma="βασιλεύς" postag="n-s---md-" relation="ATR" head="2"/>
       <word id="2" form="Πτολεμαίωι" lemma="Πτολεμαῖος" postag="n-s---md-" relation="OBJ_CO" head="3"/>
       <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="28"/>
@@ -53,7 +53,7 @@
       <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="28" insertion_id="0026e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
    </sentence>
-   <sentence id="2" document_id="" subdoc="" span="">
+   <sentence id="2" document_id="https://sematia.hum.helsinki.fi/edit/314" subdoc="" span="">
       <word id="1" form="ὑπαρχούσης" lemma="ὑπάρχω" postag="v-sppafg-" relation="ATR" head="4"/>
       <word id="2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="1"/>
       <word id="3" form="πατρικῆς" lemma="πατρικός" postag="a-s---fg-" relation="ATR" head="4"/>
@@ -136,7 +136,7 @@
       <word id="80" form="λόγον" lemma="λόγος" postag="n-s---ma-" relation="OBJ" head="77"/>
       <word id="81" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="" subdoc="" span="">
+   <sentence id="3" document_id="https://sematia.hum.helsinki.fi/edit/314" subdoc="" span="">
       <word id="1" form="ἐπεὶ" lemma="ἐπεί" postag="c--------" relation="AuxC" head="42"/>
       <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="16"/>
       <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
@@ -232,7 +232,7 @@
       <word id="93" form="ἀντιλήψεως" lemma="ἀντίληψις" postag="n-s---fg-" relation="ADV" head="86"/>
       <word id="94" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="4" document_id="" subdoc="" span="">
+   <sentence id="4" document_id="https://sematia.hum.helsinki.fi/edit/314" subdoc="" span="">
       <word id="1" form="εὐτυχεῖτε" lemma="εὐτυχέω" postag="v2ppma---" relation="PRED" head="0"/>
       <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>

@@ -17,7 +17,7 @@
       <address>marjamakilauri@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
   </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="https://sematia.hum.helsinki.fi/edit/493" subdoc="" span="">
       <word id="1" form="Διόσκορος" lemma="Διόσκορος" postag="n-s---mn-" relation="SBJ" head="13"/>
       <word id="2" form="Δρακων" lemma="Δράκων" postag="n-s---mn-" relation="OBJ_CO" head="5"/>
       <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="AuxY" head="5"/>
@@ -32,7 +32,7 @@
       <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="13" insertion_id="0011e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
    </sentence>
-   <sentence id="2" document_id="" subdoc="" span="">
+   <sentence id="2" document_id="https://sematia.hum.helsinki.fi/edit/493" subdoc="" span="">
       <word id="1" form="κομισον" lemma="κομίζω" postag="v2pama---" relation="PRED" head="0"/>
       <word id="2" form="SU" lemma="" postag="" relation="" head=""/>
       <word id="3" form="Πουῶνσις" lemma="Πουωνσις" postag="n-s---mn-" relation="" head=""/>
@@ -42,7 +42,7 @@
       <word id="7" form="ἕκαστον" lemma="ἕκαστος" postag="a-s---na-" relation="" head=""/>
       <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="" subdoc="" span="">
+   <sentence id="3" document_id="https://sematia.hum.helsinki.fi/edit/493" subdoc="" span="">
       <word id="1" form="ἐὰν" lemma="ἐάν" postag="c--------" relation="AuxC" head="8"/>
       <word id="2" form="ἐκομισάμην" lemma="κομίζω" postag="v1saim---" relation="ADV_CO" head="1"/>
       <word id="3" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" head="4"/>
@@ -57,7 +57,7 @@
       <word id="12" form="ἡμῶν" lemma="ἐγώ" postag="p1p---mg-" relation="ATR" head="11"/>
       <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="4" document_id="" subdoc="" span="">
+   <sentence id="4" document_id="https://sematia.hum.helsinki.fi/edit/493" subdoc="" span="">
       <word id="1" form="ἐρρωςG" lemma="ῤώννυμι" postag="v__r__---" relation="" head=""/>
    </sentence>
 </treebank>

@@ -17,7 +17,7 @@
       <address>jamie.vesterinen@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
   </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="https://sematia.hum.helsinki.fi/edit/434" subdoc="" span="">
       <word id="1" form="Σαβῖνος" lemma="Σαβῖνος" postag="n-s---mn-" relation="SBJ" head="8"/>
       <word id="2" form="Ζοσίμῳ" lemma="Ζώσιμος" postag="n-s---md-" relation="OBJ" head="8"/>
       <word id="3" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="4"/>
@@ -27,7 +27,7 @@
       <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="8" insertion_id="0005e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
    </sentence>
-   <sentence id="2" document_id="" subdoc="" span="">
+   <sentence id="2" document_id="https://sematia.hum.helsinki.fi/edit/434" subdoc="" span="">
       <word id="1" form="ἐρωτηθεὶς" lemma="ἐρωτάω" postag="v-sappmn-" relation="ADV" head="2"/>
       <word id="2" form="ἐπίσχες" lemma="ἐπέχω" postag="v2sama---" relation="PRED" head="0"/>
       <word id="3" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" head="4"/>
@@ -41,7 +41,7 @@
       <word id="11" form="γένηται" lemma="γίγνομαι" postag="v3sasm---" relation="ADV" head="2"/>
       <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="" subdoc="" span="">
+   <sentence id="3" document_id="https://sematia.hum.helsinki.fi/edit/434" subdoc="" span="">
       <word id="1" form="ἐρρῶσθαί" lemma="ῥώννυμι" postag="v--rne---" relation="OBJ" head="3"/>
       <word id="2" form="σε" lemma="σύ" postag="p2s----a-" relation="SBJ" head="1"/>
       <word id="3" form="εὔχομαι" lemma="εὔχομαι" postag="v1spie---" relation="PRED" head="0"/>

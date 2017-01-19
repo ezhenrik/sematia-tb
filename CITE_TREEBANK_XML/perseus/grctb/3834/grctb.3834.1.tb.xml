@@ -17,7 +17,7 @@
       <address>jamie.vesterinen@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
   </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="https://sematia.hum.helsinki.fi/edit/431" subdoc="" span="">
       <word id="1" form="Κορνηλιανὸς" lemma="Κορνηλιανός" postag="n-s---mn-" relation="SBJ" head="7"/>
       <word id="2" form="ἈσκG" lemma="" postag="" relation="OBJ" head="7"/>
       <word id="3" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="4"/>
@@ -26,7 +26,7 @@
       <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="7" insertion_id="0004e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
    </sentence>
-   <sentence id="2" document_id="" subdoc="" span="">
+   <sentence id="2" document_id="https://sematia.hum.helsinki.fi/edit/431" subdoc="" span="">
       <word id="1" form="κόμισαι" lemma="κομίζω" postag="v2samm---" relation="PRED" head="0"/>
       <word id="2" form="δGG" lemma="" postag="" relation="" head=""/>
       <word id="3" form="τὸ" lemma="τὸ" postag="l-s---n_-" relation="ATR" head="5"/>
