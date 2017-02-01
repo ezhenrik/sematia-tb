@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-10-24 10:02:46 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>LauriMarjamäki</short>
+      <name>Lauri Marjamäki</name>
+      <address>marjamakilauri@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/425"
+             subdoc=""
+             span="">
+      <word id="1" form="Agathon" lemma="Agathon" postag="n-s---mn-" relation="SBJ" head="6"/>
+      <word id="2" form="Successo" lemma="Successus" postag="n-s---md-" relation="OBJ" head="6"/>
+      <word id="3" form="suo" lemma="suus" postag="a-s---md-" relation="ATR" head="2"/>
+      <word id="4" form="salutem" lemma="salus" postag="n-s---fa-" relation="OBJ" head="6"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="6" insertion_id="0005e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/425"
+             subdoc=""
+             span="">
+      <word id="1" form="accepi" lemma="accipio" postag="v1sria---" relation="PRED" head="0"/>
+      <word id="2" form="a" lemma="ab" postag="r--------" relation="AuxP" head="1"/>
+      <word id="3" form="Melanippo" lemma="Melanippus" postag="n-s---mb-" relation="ADV" head="2"/>
+      <word id="4" form="tunicas" lemma="tunica" postag="n-p---fa-" relation="OBJ_CO" head="8"/>
+      <word id="5" form="duas" lemma="duo" postag="m-_---fa-" relation="ATR" head="4"/>
+      <word id="6" form="et" lemma="et" postag="c--------" relation="AuxY" head="8"/>
+      <word id="7" form="palliolum" lemma="palliolum" postag="n-s---na-" relation="OBJ_CO" head="8"/>
+      <word id="8" form="et" lemma="et" postag="c--------" relation="COORD" head="1"/>
+      <word id="9" form="tunicam" lemma="tunica" postag="n-s---fa-" relation="OBJ_CO" head="8"/>
+      <word id="10" form="albam" lemma="albus" postag="a-s---fa-" relation="ATR" head="9"/>
+      <word id="11" form="quam" lemma="qui2" postag="p-s---fa-" relation="OBJ" head="13"/>
+      <word id="12" form="mecum" lemma="ego" postag="p-s---mb-" relation="ADV" head="13"/>
+      <word id="13" form="habeo" lemma="habeo" postag="v1spia---" relation="ATR" head="9"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/425"
+             subdoc=""
+             span="">
+      <word id="1" form="tu" lemma="tu" postag="p-s---mn-" relation="SBJ" head="2"/>
+      <word id="2" form="cura" lemma="curo" postag="v2spma---" relation="PRED" head="0"/>
+      <word id="3" form="id" lemma="is" postag="p-s---na-" relation="OBJ" head="2"/>
+      <word id="4" form="quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="6"/>
+      <word id="5" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="6"/>
+      <word id="6" form="mandavi" lemma="mando1" postag="v1sria---" relation="ATR" head="3"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="https://sematia.hum.helsinki.fi/edit/425"
+             subdoc=""
+             span="">
+      <word id="1" form="bene" lemma="bene" postag="d--------" relation="ADV" head="2"/>
+      <word id="2" form="valere" lemma="valeo" postag="v--pna---" relation="OBJ" head="4"/>
+      <word id="3" form="te" lemma="tu" postag="p-s---ma-" relation="SBJ" head="2"/>
+      <word id="4" form="opto" lemma="opto" postag="v1spia---" relation="PRED" head="0"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
