@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-10-24 09:51:06 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>LauriMarjamäki</short>
+      <name>Lauri Marjamäki</name>
+      <address>marjamakilauri@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/421"
+             subdoc=""
+             span="">
+      <word id="1" form="Athenor" lemma="Athenor" postag="n-s---mn-" relation="SBJ" head="6"/>
+      <word id="2" form="Successo" lemma="Successus" postag="n-s---md-" relation="OBJ" head="6"/>
+      <word id="3" form="suo" lemma="suus" postag="a-s---md-" relation="ATR" head="2"/>
+      <word id="4" form="salA" lemma="salus" postag="n-s---f_-" relation="OBJ" head="6"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="6" insertion_id="0005e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/421"
+             subdoc=""
+             span="">
+      <word id="1" form="zeucterias" lemma="zeucteria" postag="n-p---fa-" relation="" head="5"/>
+      <word id="2" form="quattuor" lemma="quattuor" postag="m--------" relation="ATR" head="1"/>
+      <word id="3" form="pernecessarias" lemma="pernecessarius" postag="a-p---fa-" relation="ATR" head="1"/>
+      <word id="4" form="iube" lemma="jubeo" postag="v2spma---" relation="PRED" head="0"/>
+      <word id="5" form="mittSU" lemma="mitto" postag="v--pn_---" relation="OBJ" head="4"/>
+      <word id="6" form="ut" lemma="ut" postag="d--------" relation="AuxC" head="4"/>
+      <word id="7" form="possit" lemma="possum" postag="v3spsa---" relation="ADV" head="6"/>
+      <word id="8" form="columna" lemma="columna" postag="n-s---fn-" relation="SBJ" head="7"/>
+      <word id="9" form="inGi" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/421"
+             subdoc=""
+             span="">
+      <word id="1" form="vale" lemma="valeo" postag="v2spma---" relation="PRED" head="0"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
