@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2017-01-23 09:14:39 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>LauriMarjamäki</short>
+      <name>Lauri Marjamäki</name>
+      <address>marjamakilauri@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/599"
+             subdoc=""
+             span="">
+      <word id="1" form="Πετενεφώτης" lemma="Πετενεφωτης" postag="n-s---mn-" relation="SBJ" head="8"/>
+      <word id="2" form="Οὐαλερίωι" lemma="Οὐαλέριος" postag="n-s---md-" relation="OBJ" head="8"/>
+      <word id="3" form="τῶι" lemma="ὁ" postag="l-s---md-" relation="ATR" head="4"/>
+      <word id="4" form="ἀδελφῷ" lemma="ἀδελφός" postag="n-s---md-" relation="ATR" head="2"/>
+      <word id="5" form="πολλὰ" lemma="πολύς" postag="a-p---na-" relation="ADV" head="8"/>
+      <word id="6" form="χαίρειν" lemma="χαίρω" postag="v--pna---" relation="OBJ" head="8"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="8" insertion_id="0007e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/599"
+             subdoc=""
+             span="">
+      <word id="1" form="κόμισαι" lemma="κομίζω" postag="v2samm---" relation="PRED_CO" head="16"/>
+      <word id="2" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="1"/>
+      <word id="3" form="Μαρωνᾶτος" lemma="Μαρωνᾶς" postag="n-s---mg-" relation="ADV" head="2"/>
+      <word id="4" form="καμηλίτου" lemma="καμηλίτης" postag="n-s---mg-" relation="ATR" head="3"/>
+      <word id="5" form="δέσμην" lemma="δέσμη" postag="n-s---fa-" relation="OBJ" head="1"/>
+      <word id="6" form="μαρσιππίων" lemma="μαρσίππιον" postag="n-p---ng-" relation="ATR" head="5"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="24"/>
+      <word id="8" form="ὅπου" lemma="ὅπου" postag="d--------" relation="AuxC" head="5"/>
+      <word id="9" form="μαρσίππια" lemma="μαρσίππιον" postag="n-p---na-" relation="OBJ_CO" head="11"/>
+      <word id="10" form="τέσσερα" lemma="τέσσαρες" postag="n-p---na-" relation="ATR" head="9"/>
+      <word id="11" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="24"/>
+      <word id="12" form="πινακίδιον" lemma="πινακίδιον" postag="n-s---na-" relation="OBJ_CO" head="11"/>
+      <word id="13" form="γεγραμμένον" lemma="γράφω" postag="v-srpena-" relation="ATR" head="12"/>
+      <word id="14" form="Διοσκοροῦτι" lemma="Διοσκοροῦς" postag="n-s---md-" relation="ADV" head="13"/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="24"/>
+      <word id="16" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="17" form="ἀρεῖς" lemma="αἴρω" postag="v2sfia---" relation="PRED_CO" head="16"/>
+      <word id="18" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="17"/>
+      <word id="19" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="20"/>
+      <word id="20" form="μαρσιππίSRου" lemma="μαρσίππιον" postag="n-s---ng-" relation="ADV" head="18"/>
+      <word id="21" form="χαβόνια" lemma="χαβόνιον" postag="n-p---na-" relation="OBJ" head="17"/>
+      <word id="22" form="η" lemma="8" postag="m-_---__-" relation="ATR" head="21"/>
+      <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="24" insertion_id="0008e" artificial="elliptic" relation="ADV" lemma="εὑρίσκω" postag="v--pna---" form="εὑρίσκειν" head="8"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/599"
+             subdoc=""
+             span="">
+      <word id="1" form="ἆρον" lemma="αἴρω" postag="v2sama---" relation="PRED_CO" head="4"/>
+      <word id="2" form="σεαυτῷ" lemma="σαυτοῦ" postag="p-s---md-" relation="OBJ" head="1"/>
+      <word id="3" form="αὐτὰ" lemma="αὐτός" postag="p-p---na-" relation="OBJ" head="1"/>
+      <word id="4" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="5" form="δώσεις" lemma="δίδωμι" postag="v2sfia---" relation="PRED_CO" head="4"/>
+      <word id="6" form="Φθαῦτι" lemma="Φθαῦς" postag="n-s---md-" relation="OBJ" head="5"/>
+      <word id="7" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="8"/>
+      <word id="8" form="πινακίδιον" lemma="πινακίδιον" postag="n-s---na-" relation="OBJ_CO" head="9"/>
+      <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="5"/>
+      <word id="10" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="11"/>
+      <word id="11" form="μαρσίππια" lemma="μαρσίππιον" postag="n-p---na-" relation="OBJ_CO" head="9"/>
+      <word id="12" form="ἵνα" lemma="ἵνα" postag="c--------" relation="AuxC" head="5"/>
+      <word id="13" form="δῷ" lemma="δίδωμι" postag="v3sasa---" relation="ADV" head="12"/>
+      <word id="14" form="αὐτὰ" lemma="αὐτός" postag="p-p---na-" relation="OBJ" head="13"/>
+      <word id="15" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="13"/>
+      <word id="16" form="οἶκον" lemma="οἶκος" postag="n-s---ma-" relation="ADV" head="15"/>
+      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="https://sematia.hum.helsinki.fi/edit/599"
+             subdoc=""
+             span="">
+      <word id="1" form="ἔρρωσο" lemma="ῥώννυμι" postag="v2srme---" relation="PRED" head="0"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="https://sematia.hum.helsinki.fi/edit/599"
+             subdoc=""
+             span="">
+      <word id="1" form="δώσεις" lemma="δίδωμι" postag="v2sfia---" relation="PRED" head="0"/>
+      <word id="2" form="Κολοφωνίῳ" lemma="Κολοφώνιος" postag="n-s---md-" relation="OBJ" head="1"/>
+      <word id="3" form="χαβώνια" lemma="χαβώνιον" postag="n-p---na-" relation="OBJ" head="1"/>
+      <word id="4" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="3"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
