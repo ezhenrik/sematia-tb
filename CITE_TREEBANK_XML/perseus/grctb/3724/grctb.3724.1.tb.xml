@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2016-10-10 11:29:11 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>LauriMarjamäki</short>
+      <name>Lauri Marjamäki</name>
+      <address>marjamakilauri@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/LauriMarjam%C3%A4ki</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="http://sematia.hum.helsinki.fi/annotate/386"
+             subdoc=""
+             span="">
+      <word id="1" form="Ποντικὸς" lemma="Ποντικός" postag="n-s---mn-" relation="SBJ" head="9"/>
+      <word id="2" form="διπλοκάριος" lemma="διπλοκάριος" postag="n-s---mn-" relation="ATR" head="1"/>
+      <word id="3" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="6"/>
+      <word id="4" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="6"/>
+      <word id="5" form="Κλαυδιανὸν" lemma="Κλαυδιανός" postag="n-s---ma-" relation="ATR" head="4"/>
+      <word id="6" form="καισαριανῷ" lemma="καισαριανός" postag="n-s---md-" relation="OBJ" head="9"/>
+      <word id="7" form="χαίρειν" lemma="χαίρω" postag="v--pna---" relation="OBJ" head="9"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="9" insertion_id="0007e" artificial="elliptic" relation="PRED" lemma="λέγω2" postag="v3spia---" form="λέγει" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="http://sematia.hum.helsinki.fi/annotate/386"
+             subdoc=""
+             span="">
+      <word id="1" form="Πετεῆσις" lemma="Πετεησις" postag="n-s---mn-" relation="SBJ" head="3"/>
+      <word id="2" form="Λάμπωνος" lemma="Λάμπων" postag="n-s---mg-" relation="ATR" head="1"/>
+      <word id="3" form="ἐκένωσεν" lemma="κενόω" postag="v3saia---" relation="PRED" head="0"/>
+      <word id="4" form="ἀχύρου" lemma="ἀχυρός" postag="n-s---mg-" relation="ATR" head="5"/>
+      <word id="5" form="γόμον" lemma="γόμος" postag="n-s---ma-" relation="OBJ" head="3"/>
+      <word id="6" form="ἕνα" lemma="εἷς" postag="n-s---ma-" relation="ATR" head="5"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="http://sematia.hum.helsinki.fi/annotate/386"
+             subdoc=""
+             span="">
+      <word id="1" form="ἔτους" lemma="ἔτος" postag="n-s---ng-" relation="ADV" head="10"/>
+      <word id="2" form="ια" lemma="11" postag="m-_---__-" relation="ATR" head="1"/>
+      <word id="3" form="Τραιανοῦ" lemma="Τραϊανός" postag="n-s---mg-" relation="ATR" head="1"/>
+      <word id="4" form="Καίσαρος" lemma="Καῖσαρ" postag="n-s---mg-" relation="ATR" head="3"/>
+      <word id="5" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="6"/>
+      <word id="6" form="κυρίου" lemma="κύριος" postag="n-s---mg-" relation="ATR" head="3"/>
+      <word id="7" form="Θὼθ" lemma="Θωυθ" postag="n-_---__-" relation="ADV" head="10"/>
+      <word id="8" form="θ" lemma="9" postag="m-_---__-" relation="ATR" head="7"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="10" insertion_id="0008e" artificial="elliptic" relation="PRED" lemma="γράφω" postag="v3saia---" form="ἔγραψε" head="0"/>
+   </sentence>
+</treebank>
