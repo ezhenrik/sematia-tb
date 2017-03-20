@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2017-03-15 09:14:12 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>Marja Vierros</short>
+      <name>Marja Vierros</name>
+      <address>vierrosm@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Marja%20Vierros</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/355"
+             subdoc=""
+             span="">
+      <word id="1" form="Μενεδήμωι" lemma="Μενέδημος" postag="n-s---md-" relation="OBJ" head="3"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="3" insertion_id="0000e" artificial="elliptic" relation="PRED" lemma="[0]" postag="v_____---" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/355"
+             subdoc=""
+             span="">
+      <word id="1" form="προνοήθητι" lemma="προνοέω" postag="v2samp---" relation="PRED" head="0"/>
+      <word id="2" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="1"/>
+      <word id="3" form="τεύξεται" lemma="τυγχάνω" postag="v3sfim---" relation="OBJ" head="2"/>
+      <word id="4" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="5"/>
+      <word id="5" form="δικαίων" lemma="δίκαιος" postag="a-p---ng-" relation="ADV" head="3"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/355"
+             subdoc=""
+             span="">
+      <word id="1" form="A" lemma="ἔτος" postag="n-----n--" relation="ADV" head="6"/>
+      <word id="2" form="ιθ" lemma="19" postag="m-_---__-" relation="ATR" head="1"/>
+      <word id="3" form="Φαῶφι" lemma="Φαωφι" postag="n-s---_n-" relation="ADV" head="6"/>
+      <word id="4" form="ιθ" lemma="19" postag="m-_---__-" relation="ATR" head="3"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="6" insertion_id="0000e" artificial="elliptic" relation="PRED" lemma="[0]" postag="v_____---" form="[0]" head="0"/>
+   </sentence>
+</treebank>
