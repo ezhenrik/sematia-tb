@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2017-03-15 09:58:59 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>Marja Vierros</short>
+      <name>Marja Vierros</name>
+      <address>vierrosm@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Marja%20Vierros</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/359"
+             subdoc=""
+             span="">
+      <word id="1" form="ἔτους" lemma="ἔτος" postag="n-s---ng-" relation="ADV" head="7"/>
+      <word id="2" form="ιθ" lemma="19" postag="m-_---__-" relation="ATR" head="1"/>
+      <word id="3" form="Φαῶφι" lemma="Φαωφι" postag="n-s---_n-" relation="ADV" head="7"/>
+      <word id="4" form="ιη" lemma="18" postag="m-_---__-" relation="ATR" head="3"/>
+      <word id="5" form="Πτολεμαίου" lemma="Πτολεμαῖος" postag="n-s---mg-" relation="ADV" head="7"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0000e" artificial="elliptic" relation="PRED" lemma="[0]" postag="v_____---" form="[0]" head="0"/>
+   </sentence>
+</treebank>
