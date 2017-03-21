@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2017-03-21 09:51:45 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>Marja Vierros</short>
+      <name>Marja Vierros</name>
+      <address>vierrosm@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Marja%20Vierros</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/370"
+             subdoc=""
+             span="">
+      <word id="1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="9"/>
+      <word id="2" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="3"/>
+      <word id="3" form="γραμματεῖς" lemma="γραμματεύς" postag="n-p---ma-" relation="OBJ_CO" head="5"/>
+      <word id="4" form="κεωρκῶν" lemma="γεωργός" postag="a-p---mg-" relation="ATR" head="3"/>
+      <word id="5" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="1"/>
+      <word id="6" form="γραμματιτέα" lemma="γραμματιτέα" postag="n-_---__-" relation="OBJ_CO" head="5"/>
+      <word id="7" form="σκαGέων" lemma="σκα?" postag="n-p---_g-" relation="ATR" head="6"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="9" insertion_id="0007e" artificial="elliptic" relation="PRED" form="[0]" lemma="[0]" postag="v_____---" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/370"
+             subdoc=""
+             span="">
+      <word id="1" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="5"/>
+      <word id="2" form="κζ" lemma="27" postag="m-p---__-" relation="ATR" head="5"/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="4" insertion_id="0002e" artificial="elliptic" relation="PRED" form="[0]" lemma="[0]" postag="v_____---" head="0"/>
+      <word id="5" insertion_id="0002f" artificial="elliptic" relation="ADV" form="[1]" lemma="[1]" postag="n-_---__-" head="4"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/370"
+             subdoc=""
+             span="">
+      <word id="1" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="8"/>
+      <word id="2" form="κολακίας" lemma="κολακεία" postag="n-s---fg-" relation="ADV_CO" head="5"/>
+      <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="AuxY" head="5"/>
+      <word id="4" form="δώρων" lemma="δῶρον" postag="n-p---ng-" relation="ADV_CO" head="5"/>
+      <word id="5" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="1"/>
+      <word id="6" form="ἀστρονομίας" lemma="ἀστρονομία" postag="n-s---fg-" relation="ADV_CO" head="5"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="8" insertion_id="0006e" artificial="elliptic" relation="PRED" form="[0]" lemma="[0]" postag="v_____---" head="0"/>
+   </sentence>
+</treebank>
