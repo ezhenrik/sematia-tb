@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-05-29 11:31:19 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>PaulaRajala</short>
+      <name>Paula Rajala</name>
+      <address>paula.e.rajala@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/PaulaRajala</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="Caius" lemma="Gaius" postag="n-s---mn-" relation="ATR" head="2"/>
+      <word id="2" form="Lurius" lemma="Lurius" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="3" form="Ario" lemma="Arius" postag="n-s---md-" relation="OBJ" head="7"/>
+      <word id="4" form="fratri" lemma="frater" postag="n-s---md-" relation="ATR" head="3"/>
+      <word id="5" form="salutem" lemma="salus" postag="n-s---fa-" relation="OBJ" head="7"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0005e" artificial="elliptic" relation="PRED" form="dicit" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="ante" lemma="ante" postag="r--------" relation="AuxP" head="3"/>
+      <word id="2" form="omnia" lemma="omnia" postag="n-p---na-" relation="ADV" head="1"/>
+      <word id="3" form="opto" lemma="opto" postag="v1spia---" relation="PRED" head="0"/>
+      <word id="4" form="te" lemma="tu" postag="p-s---ma-" relation="OBJ" head="3"/>
+      <word id="5" form="recte" lemma="rectus" postag="d-------p" relation="ADV" head="6"/>
+      <word id="6" form="ualere" lemma="valeo" postag="v--pna---" relation="OBJ" head="3"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="nugas" lemma="nugae" postag="n-p---fa-" relation="OBJ" head="2"/>
+      <word id="2" form="facitis" lemma="facio" postag="v2ppia---" relation="PRED" head="0"/>
+      <word id="3" form="quod" lemma="qui2" postag="p-s---na-" relation="AuxC" head="2"/>
+      <word id="4" form="rixatis" lemma="rixo" postag="v2ppia---" relation="ADV" head="3"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="homo" lemma="homo" postag="n-s---mn-" relation="SBJ" head="3"/>
+      <word id="2" form="ueteranus" lemma="veteranus" postag="n-s---mn-" relation="PNOM" head="3"/>
+      <word id="3" form="es" lemma="sum" postag="v2spia---" relation="PRED_CO" head="4"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+      <word id="5" form="illi" lemma="ille" postag="p-p---mn-" relation="SBJ" head="7"/>
+      <word id="6" form="tirones" lemma="tiro1" postag="n-p---mn-" relation="PNOM" head="7"/>
+      <word id="7" form="sunt" lemma="sum1" postag="v3ppia---" relation="PRED_CO" head="4"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="tu" lemma="tu" postag="p-s---mn-" relation="SBJ" head="2"/>
+      <word id="2" form="debes" lemma="debeo" postag="v2spia---" relation="PRED" head="0"/>
+      <word id="3" form="illis" lemma="ille" postag="p-p---md-" relation="OBJ" head="4"/>
+      <word id="4" form="monstrare" lemma="monstro" postag="v--pna---" relation="OBJ" head="2"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="2"/>
+      <word id="2" form="GrG" lemma="?r" postag="v1____---" relation="PRED_CO" head="5"/>
+      <word id="3" form="semper" lemma="semper" postag="d--------" relation="ADV" head="2"/>
+      <word id="4" form="epistulas" lemma="epistula" postag="n-p---fa-" relation="OBJ" head="2"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+      <word id="6" form="rG" lemma="?r" postag="_--------" relation="PRED_CO" head="5"/>
+      <word id="7" form="tu" lemma="tu" postag="p-s---mn-" relation="SBJ" head="6"/>
+      <word id="8" form="mi" lemma="ego" postag="p-s---ma-" relation="OBJ" head="6"/>
+      <word id="9" form="non" lemma="non" postag="d--------" relation="AuxZ" head="6"/>
+      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="salutabis" lemma="saluto" postag="v2sfia---" relation="PRED" head="0"/>
+      <word id="2" form="Antestium" lemma="Antestius" postag="n-s---ma-" relation="OBJ_CO" head="3"/>
+      <word id="3" form="et" lemma="et" postag="c--------" relation="COORD" head="1"/>
+      <word id="4" form="Longinum" lemma="Longinus" postag="n-s---ma-" relation="OBJ_CO" head="3"/>
+      <word id="5" form="uexillarium" lemma="vexillarius" postag="n-s---ma-" relation="ATR" head="4"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="8"
+             document_id="https://sematia.hum.helsinki.fi/edit/851"
+             subdoc=""
+             span="">
+      <word id="1" form="uale" lemma="valeo" postag="v2spma---" relation="PRED" head="0"/>
+      <word id="2" form="G" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
