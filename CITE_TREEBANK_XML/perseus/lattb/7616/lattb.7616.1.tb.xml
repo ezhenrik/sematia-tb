@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-05-29 08:55:29 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>PaulaRajala</short>
+      <name>Paula Rajala</name>
+      <address>paula.e.rajala@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/PaulaRajala</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/848"
+             subdoc=""
+             span="">
+      <word id="1" form="Cutus" lemma="Cotus" postag="n-s---mn-" relation="SBJ" head="5"/>
+      <word id="2" form="Tarulae" lemma="Tarula" postag="n-s---md-" relation="OBJ" head="5"/>
+      <word id="3" form="salutem" lemma="salus" postag="n-s---fa-" relation="OBJ" head="5"/>
+      <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="5" insertion_id="0003e" artificial="elliptic" relation="PRED" form="dicit" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/794"
+             subdoc=""
+             span="">
+      <word id="1" form="rogo" lemma="rogo" postag="v1spia---" relation="PRED" head="0"/>
+      <word id="2" form="te" lemma="tu" postag="p-s---ma-" relation="OBJ" head="1"/>
+      <word id="3" form="frater" lemma="frater" postag="n-s---mv-" relation="ExD" head="1"/>
+      <word id="4" form="quas" lemma="qui2" postag="p-p---fa-" relation="OBJ" head="5"/>
+      <word id="5" form="habes" lemma="habeo" postag="v2spia---" relation="ATR" head="7"/>
+      <word id="6" form="meas" lemma="meus" postag="a-p---fa-" relation="ATR" head="7"/>
+      <word id="7" form="dracmas" lemma="drachma" postag="n-p---fa-" relation="OBJ" head="1"/>
+      <word id="8" form="XXXIV" lemma="XXXIV" postag="m-p---__-" relation="ATR" head="7"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/794"
+             subdoc=""
+             span="">
+      <word id="1" form="salutem" lemma="salus" postag="n-s---fa-" relation="OBJ" head="5"/>
+      <word id="2" form="Longino" lemma="Longinus" postag="n-s---md-" relation="OBJ" head="5"/>
+      <word id="3" form="nostro" lemma="noster" postag="a-s---md-" relation="ATR" head="2"/>
+      <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="5" insertion_id="0000e" artificial="elliptic" relation="PRED" lemma="dico2" postag="v2spma---" form="Dic" head="0"/>
+   </sentence>
+</treebank>
