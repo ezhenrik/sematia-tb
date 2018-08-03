@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2017-09-07 10:24:25 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>AnttiLindgren</short>
+      <name>Antti Lindgren</name>
+      <address>lindgren.antti@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/AnttiLindgren</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/655"
+             subdoc=""
+             span="">
+      <word id="1" form="Manilius" lemma="Manilius" postag="n-s---mn-" relation="ATR" head="2"/>
+      <word id="2" form="Felix" lemma="Felix" postag="n-s---mn-" relation="SBJ" head="9"/>
+      <word id="3" form="decA" lemma="decurio" postag="n-s---m_-" relation="ATR" head="2"/>
+      <word id="4" form="Novelio" lemma="Novellius" postag="n-s---md-" relation="OBJ" head="9"/>
+      <word id="5" form="curatori" lemma="curator" postag="n-s---md-" relation="ATR" head="4"/>
+      <word id="6" form="Maximiano" lemma="Maximianum" postag="n-s---nb-" relation="ATR" head="5"/>
+      <word id="7" form="salute" lemma="salus" postag="n-s---fa-" relation="OBJ" head="9"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="9" insertion_id="0008e" artificial="elliptic" relation="PRED" lemma="dico2" postag="v3spia---" form="dicit" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/655"
+             subdoc=""
+             span="">
+      <word id="1" form="recte" lemma="recte" postag="d-------p" relation="ADV" head="2"/>
+      <word id="2" form="facies" lemma="facio" postag="v2sfia---" relation="PRED_CO" head="18"/>
+      <word id="3" form="per" lemma="per" postag="r--------" relation="AuxP" head="5"/>
+      <word id="4" form="amaxas" lemma="amaxa" postag="n-p---fa-" relation="ADV" head="3"/>
+      <word id="5" form="mittas" lemma="mitto" postag="v2spsa---" relation="OBJ" head="2"/>
+      <word id="6" form="nobis" lemma="nos" postag="p-p---mb-" relation="OBJ" head="5"/>
+      <word id="7" form="aqua" lemma="aqua" postag="n-s---fa-" relation="OBJ" head="5"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="5"/>
+      <word id="9" form="quia" lemma="quia" postag="c--------" relation="AuxC" head="5"/>
+      <word id="10" form="deest" lemma="desum" postag="v3spia---" relation="ADV_CO" head="12"/>
+      <word id="11" form="nobis" lemma="nos" postag="p-p---md-" relation="ADV" head="10"/>
+      <word id="12" form="et" lemma="et" postag="c--------" relation="COORD" head="9"/>
+      <word id="13" form="unde" lemma="unde" postag="d--------" relation="AuxC" head="16"/>
+      <word id="14" form="potere" lemma="poto" postag="v--pna---" relation="OBJ" head="13"/>
+      <word id="15" form="non" lemma="non" postag="d--------" relation="AuxZ" head="16"/>
+      <word id="16" form="abemus" lemma="habeo" postag="v1ppia---" relation="ADV_CO" head="12"/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="18"/>
+      <word id="18" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
+      <word id="19" form="cura" lemma="cura" postag="n-s---fn-" relation="SBJ" head="21"/>
+      <word id="20" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="21"/>
+      <word id="21" form="sit" lemma="sum1" postag="v3spsa---" relation="PRED_CO" head="18"/>
+      <word id="22" form="celerius" lemma="celer1" postag="a-------c" relation="ADV" head="23"/>
+      <word id="23" form="mittere" lemma="mitto" postag="v--pna---" relation="PNOM" head="21"/>
+      <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
