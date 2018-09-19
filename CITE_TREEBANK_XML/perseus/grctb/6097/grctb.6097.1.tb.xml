@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-06-23 17:24:01 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/1000"
+             subdoc=""
+             span="">
+      <word id="1" form="G" lemma="G" postag="n-_---__-" relation="SBJ_CO" head="15"/>
+      <word id="2" form="υἱὸς" lemma="υἱός" postag="n-s---mn-" relation="ATR" head="1"/>
+      <word id="3" form="Ἰωάννου" lemma="Ἰώαννης" postag="n-s---mg-" relation="ATR" head="2"/>
+      <word id="4" form="σὺν" lemma="σύν" postag="r--------" relation="AuxP" head="6"/>
+      <word id="5" form="θA" lemma="θεός" postag="n-_---m_-" relation="ATR" head="4"/>
+      <word id="6" form="πρεA" lemma="πρέσβυς" postag="a-_---m_c" relation="ATR" head="1"/>
+      <word id="7" form="μαρSUυρῶ" lemma="μαρτυρέω" postag="v1spia---" relation="PRED_CO" head="15"/>
+      <word id="8" form="ταύτῃ" lemma="οὗτος" postag="p-s---fd-" relation="ATR" head="10"/>
+      <word id="9" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="10"/>
+      <word id="10" form="πράσει" lemma="πρᾶσις" postag="n-s---fd-" relation="OBJ" head="7"/>
+      <word id="11" form="ἀκούσας" lemma="ἀκούω" postag="v-sapamn-" relation="ADV" head="7"/>
+      <word id="12" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="11"/>
+      <word id="13" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="14"/>
+      <word id="14" form="SU" lemma="SU" postag="_--------" relation="OBJ" head="12"/>
+      <word id="15" form="SU" lemma="SU" postag="_--------" relation="COORD" head="0"/>
+      <word id="16" form="SUῶ" lemma="SUῶ" postag="v1s___---" relation="PRED_CO" head="15"/>
+      <word id="17" form="καὶ" lemma="καί" postag="c--------" relation="AuxZ" head="19"/>
+      <word id="18" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="19"/>
+      <word id="19" form="καταβολῇ" lemma="καταβολή" postag="n-s---fd-" relation="OBJ" head="16"/>
+      <word id="20" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="21"/>
+      <word id="21" form="χρυσίου" lemma="χρυσίον" postag="n-s---ng-" relation="ATR" head="19"/>
+      <word id="22" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" head="24"/>
+      <word id="23" form="δύο" lemma="δύο" postag="m-d---nn-" relation="ATR" head="24"/>
+      <word id="24" form="νομισμάτων" lemma="νόμισμα" postag="n-p---ng-" relation="ATR" head="21"/>
+      <word id="25" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="26"/>
+      <word id="26" form="τιμῆς" lemma="τιμή" postag="n-s---fg-" relation="ATR" head="24"/>
+      <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
