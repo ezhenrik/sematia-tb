@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-06-23 17:32:31 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/1015"
+             subdoc=""
+             span="">
+      <word id="1" form="SU" lemma="SU" postag="r--------" relation="AuxP" head="7"/>
+      <word id="2" form="SUμοῦ" lemma="ἐγώ" postag="p-s---mg-" relation="OBJ" head="1"/>
+      <word id="3" form="Θεοδοσίου" lemma="Θεοδόσιος" postag="n-s---mg-" relation="APOS" head="2"/>
+      <word id="4" form="σὺν" lemma="σύν" postag="r--------" relation="AuxP" head="6"/>
+      <word id="5" form="θA" lemma="θεός" postag="n-_---m_-" relation="ATR" head="4"/>
+      <word id="6" form="ταβελλA" lemma="ταβελλίων" postag="n-_---m_-" relation="ATR" head="3"/>
+      <word id="7" form="ἐγράφA" lemma="γράφω" postag="v_____---" relation="PRED" head="0"/>
+   </sentence>
+</treebank>
