@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-08-08 10:56:50 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/1103"
+             subdoc=""
+             span="">
+      <word id="1" form="συμβουλευGην" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ὑπογραφὴν" lemma="ὑπογραφή" postag="n-s---fa-" relation="" head=""/>
+   </sentence>
+</treebank>
