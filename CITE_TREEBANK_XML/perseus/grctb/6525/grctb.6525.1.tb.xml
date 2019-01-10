@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-09-22 11:39:43 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/1318"
+             subdoc=""
+             span="">
+      <word id="1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="6"/>
+      <word id="2" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="7"/>
+      <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="7"/>
+      <word id="4" form="Μέμφιν" lemma="Μεμφις" postag="n-s---fa-" relation="OBJ" head="3"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="6" insertion_id="0000e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+      <word id="7" insertion_id="0004e" artificial="elliptic" relation="OBJ" form="[1]" head="1"/>
+   </sentence>
+</treebank>
