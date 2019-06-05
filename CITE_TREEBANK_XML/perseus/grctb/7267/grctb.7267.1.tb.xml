@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2019-01-02 08:26:53 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>PetriLahtinen</short>
+      <name>Petri Lahtinen</name>
+      <address>petri.m.lahtinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/PetriLahtinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="Κολλούθης" lemma="Κολλουθης" postag="n-s---mn-" relation="SBJ" head="5"/>
+      <word id="2" form="Ζήνωνι" lemma="Ζήνων" postag="n-s---md-" relation="OBJ" head="5"/>
+      <word id="3" form="χαίρειν" lemma="χαίρω" postag="v--pna---" relation="OBJ" head="5"/>
+      <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="5" insertion_id="0000e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="ἀπελθόντος" lemma="ἀπέρχομαι" postag="v-sapamg-" relation="ADV" head="5"/>
+      <word id="2" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="SBJ" head="1"/>
+      <word id="3" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="1"/>
+      <word id="4" form="σοῦ" lemma="σύ" postag="p2s----g-" relation="ADV" head="3"/>
+      <word id="5" form="κατέλαβον" lemma="καταλαμβάνω" postag="v1saia---" relation="PRED" head="0"/>
+      <word id="6" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="7"/>
+      <word id="7" form="γεωργοSU" lemma="γεωργός" postag="n-_---m_-" relation="OBJ" head="5"/>
+      <word id="8" form="SU" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="11"/>
+      <word id="10" form="καταμεμετρημένης" lemma="καταμετρέω" postag="v-srpefg-" relation="ATR" head="11"/>
+      <word id="11" form="γῆς" lemma="γῆ" postag="n-s---fg-" relation="" head=""/>
+      <word id="12" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="13"/>
+      <word id="13" form="στρατιώταις" lemma="στρατιώτης" postag="n-p---md-" relation="OBJ" head="10"/>
+      <word id="14" form="ἀνακεχωρηκότας" lemma="ἀναχωρέω" postag="v-prpama-" relation="ATR" head="7"/>
+      <word id="15" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="14"/>
+      <word id="16" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="17"/>
+      <word id="17" form="Ἰσιεῖον" lemma="Ἰσιεῖον" postag="n-s---na-" relation="OBJ" head="15"/>
+      <word id="18" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="23"/>
+      <word id="19" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="23"/>
+      <word id="20" form="τῶι" lemma="ὁ" postag="l-s---md-" relation="ATR" head="21"/>
+      <word id="21" form="ΜεμSU" lemma="" postag="" relation="ATR" head="19"/>
+      <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="23" insertion_id="0018e" artificial="elliptic" relation="ATR" form="[0]" head="17"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="SUκα" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3"/>
+      <word id="3" form="ἐκομισάμην" lemma="κομίζω" postag="v1saim---" relation="" head=""/>
+      <word id="4" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="7"/>
+      <word id="5" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="7"/>
+      <word id="6" form="σοῦ" lemma="σύ" postag="p2s----g-" relation="ATR" head="5"/>
+      <word id="7" form="ἐπιστολήν" lemma="ἐπιστολή" postag="n-s---fa-" relation="OBJ" head="3"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="ἐπορευόμην" lemma="πορεύω" postag="v1siie---" relation="PRED" head="0"/>
+      <word id="10" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="9"/>
+      <word id="11" form="Κροκοδίλων" lemma="κροκόδιλος" postag="n-p---mg-" relation="ATR" head="12"/>
+      <word id="12" form="πόλιν" lemma="πόλις" postag="n-s---fa-" relation="OBJ" head="10"/>
+      <word id="13" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="9"/>
+      <word id="14" form="ΜαίμSU" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="SUως" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="18"/>
+      <word id="18" form="ἐγείρηι" lemma="ἐγείρω" postag="v3sasa---" relation="" head=""/>
+      <word id="19" form="αὐτούς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="18"/>
+      <word id="20" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="2" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="6"/>
+      <word id="3" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="5"/>
+      <word id="4" form="τοῦτο" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" head="5"/>
+      <word id="5" form="γένηται" lemma="γίγνομαι" postag="v3sasm---" relation="ADV" head="2"/>
+      <word id="6" form="παρησόμεθα" lemma="παρίημι" postag="v1pfim---" relation="PRED_CO" head="1"/>
+      <word id="7" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="6"/>
+      <word id="8" form="σέ" lemma="σύ" postag="p2s----a-" relation="OBJ" head="7"/>
+      <word id="9" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2"/>
+      <word id="2" form="ἐνεδήμει" lemma="ἐνδημέω" postag="v3siia---" relation="PRED" head="0"/>
+      <word id="3" form="SU" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="SUν" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="τῆι" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="6"/>
+      <word id="6" form="κώμηι" lemma="κώμη" postag="n-s---fd-" relation="" head=""/>
+      <word id="7" form="Ψενομοῦς" lemma="Ψενεμους" postag="n-s---mn-" relation="SBJ" head="2"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="γέγραφα" lemma="γράφω" postag="v1sria---" relation="PRED" head="0"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="1"/>
+      <word id="3" form="σοι" lemma="σύ" postag="p2s----d-" relation="OBJ" head="1"/>
+      <word id="4" form="ἵνα" lemma="ἵνα" postag="c--------" relation="AuxC" head="1"/>
+      <word id="5" form="εἰδῆις" lemma="οἶδα" postag="v2srsa---" relation="ADV" head="4"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="ἔρρωσο" lemma="ῥώννυμι" postag="v2srme---" relation="PRED" head="0"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="8"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="A" lemma="ἔτος" postag="n-_---n_-" relation="ADV" head="7"/>
+      <word id="2" form="λγ" lemma="λγ" postag="m-_---__-" relation="ATR" head="1"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="4" form="Χοιάχ" lemma="Χοιάκ" postag="n-s---__-" relation="ADV" head="7"/>
+      <word id="5" form="G" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0000e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="9"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="ASU" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="SU" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="Τῦβι" lemma="Τυβί" postag="n-s---__-" relation="ADV" head="7"/>
+      <word id="5" form="β" lemma="β" postag="m-_---__-" relation="ATR" head="4"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0000e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="10"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="Κολλούθης" lemma="Κολλουθης" postag="n-s---mn-" relation="SBJ" head="3"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="3" insertion_id="0000e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="11"
+             document_id="https://sematia.hum.helsinki.fi/edit/2023"
+             subdoc=""
+             span="">
+      <word id="1" form="Μῦς" lemma="Μῦς" postag="n-s---mn-" relation="SBJ" head="4"/>
+      <word id="2" form="Ζήνωνι" lemma="Ζήνων" postag="n-s---md-" relation="OBJ" head="4"/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="4" insertion_id="0000e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+</treebank>
