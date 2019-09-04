@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-11-15 11:23:19 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/1822"
+             subdoc=""
+             span="">
+      <word id="1" form="περεὶ" lemma="περί" postag="r--------" relation="AuxP" head="5"/>
+      <word id="2" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="3"/>
+      <word id="3" form="ἀδελφοῦ" lemma="ἀδελφός" postag="n-s---mg-" relation="OBJ" head="1"/>
+      <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="5" insertion_id="0003e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://sematia.hum.helsinki.fi/edit/1822"
+             subdoc=""
+             span="">
+      <word id="1" form="περεὶ" lemma="περί" postag="r--------" relation="AuxP" head="4"/>
+      <word id="2" form="Πτολεμαίου" lemma="Πτολεμαῖος" postag="n-s---mg-" relation="OBJ" head="1"/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="4" insertion_id="0002e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://sematia.hum.helsinki.fi/edit/1822"
+             subdoc=""
+             span="">
+      <word id="1" form="περεὶ" lemma="περί" postag="r--------" relation="AuxP" head="4"/>
+      <word id="2" form="Ταγῆτος" lemma="Ταυης" postag="n-s---fg-" relation="OBJ" head="1"/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="4" insertion_id="0002e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="https://sematia.hum.helsinki.fi/edit/1822"
+             subdoc=""
+             span="">
+      <word id="1" form="περεὶ" lemma="περί" postag="r--------" relation="AuxP" head="7"/>
+      <word id="2" form="Σαραπίωνα" lemma="Σαραπίων" postag="n-s---ma-" relation="OBJ" head="1"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="5"/>
+      <word id="4" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="5"/>
+      <word id="5" form="ἔσται" lemma="εἰμί" postag="v3sfim---" relation="ATR" head="2"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0002e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="https://sematia.hum.helsinki.fi/edit/1822"
+             subdoc=""
+             span="">
+      <word id="1" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" head="5"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="0"/>
+      <word id="3" form="περεὶ" lemma="περί" postag="r--------" relation="AuxP" head="5"/>
+      <word id="4" form="Ταγῆτος" lemma="Ταυης" postag="n-s---fg-" relation="ATR" head="3"/>
+      <word id="5" insertion_id="0004e" artificial="elliptic" relation="OBJ" form="[0]" head="6"/>
+      <word id="6" insertion_id="0004f" artificial="elliptic" relation="ExD_CO" form="[1]" head="2"/>
+   </sentence>
+   <sentence id="6"
+             document_id="https://sematia.hum.helsinki.fi/edit/1822"
+             subdoc=""
+             span="">
+      <word id="1" form="Ἁρπαήσι" lemma="Ἁρπαησις" postag="n-s---m_-" relation="OBJ" head="3"/>
+      <word id="2" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="3" insertion_id="0001e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="7"
+             document_id="https://sematia.hum.helsinki.fi/edit/1822"
+             subdoc=""
+             span="">
+      <word id="1" form="ΠSUολεμαῖον" lemma="Πτολεμαῖος" postag="n-s---ma-" relation="OBJ" head="2"/>
+      <word id="2" form="ἀνθρακιῶι" lemma="ἀνθρακόω" postag="v1sp_a---" relation="PRED" head="0"/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
