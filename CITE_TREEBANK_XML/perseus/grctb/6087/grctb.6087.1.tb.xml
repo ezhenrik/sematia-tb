@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-06-21 16:28:59 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short>JamieVesterinen</short>
+      <name>Jamie Vesterinen</name>
+      <address>jamie.vesterinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/JamieVesterinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://sematia.hum.helsinki.fi/edit/1054"
+             subdoc=""
+             span="">
+      <word id="1" form="Αὐρήλιος" lemma="Αὐρήλιος" postag="n-s---mn-" relation="ATR" head="2"/>
+      <word id="2" form="Φοιβάμμων" lemma="Φοιβάμμων" postag="n-s---mn-" relation="SBJ" head="4"/>
+      <word id="3" form="Ἑρμαυῶτος" lemma="Ἑρμαυῶς" postag="n-s---mg-" relation="ATR" head="2"/>
+      <word id="4" form="μαρτυρῶ" lemma="μαρτυρέω" postag="v1spia---" relation="PRED" head="0"/>
+      <word id="5" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="6"/>
+      <word id="6" form="SUγγραφῇ" lemma="συγγραφή" postag="n-s---fd-" relation="OBJ" head="4"/>
+      <word id="7" form="ἀκούσας" lemma="ἀκούω" postag="v-sapamn-" relation="ADV" head="4"/>
+      <word id="8" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="7"/>
+      <word id="9" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="10"/>
+      <word id="10" form="θεμένου" lemma="τίθημι" postag="v-sapmmg-" relation="OBJ" head="8"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
